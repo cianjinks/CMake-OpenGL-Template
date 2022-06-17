@@ -22,3 +22,8 @@ You will need [CMake](https://cmake.org/) and Visual Studio installed on your co
 Same as above, you will need [CMake](https://cmake.org/) and a suitable C++ and C compiler installed. First run `linux_setup.sh` to produce a `./build` folder. Then to compile the program executable in either debug or release mode you can use the commands:
 
     cmake --build ./build/release OR cmake --build ./build/debug
+
+## Media
+
+![Windows](docs/Windows.png)
+![Linux](docs/Linux.png)
