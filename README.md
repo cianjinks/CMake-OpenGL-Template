@@ -9,7 +9,7 @@ This repository is a template CMake project setup for cross platform graphics pr
 - [stb_image](https://github.com/nothings/stb/blob/master/stb_image.h) for texture loading
 
 
-Feel free to copy/fork this repository for your own use. I wrote a [tutorial]() on how it was setup from scratch if you are interested.
+Feel free to copy/fork this repository for your own use. I wrote a [tutorial](https://cianjinks.github.io/posts/cmake-project-graphics-programming/) on how it was setup from scratch if you are interested.
 
 ## Usage
 
