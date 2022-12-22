@@ -25,5 +25,5 @@ Same as above, you will need [CMake](https://cmake.org/) and a suitable C++ and 
 
 ## Media
 
-![Windows](docs/Windows.png)
-![Linux](docs/Linux.png)
+![Windows](doc/Windows.png)
+![Linux](doc/Linux.png)
